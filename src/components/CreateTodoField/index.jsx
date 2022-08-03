@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import { v4 as uuidv4 } from 'uuid'
 
-// asd?
 const CreateTodoField = ({ setTodos }) => {
 	const [title, setTitle] = useState('')
 
@@ -16,6 +15,8 @@ const CreateTodoField = ({ setTodos }) => {
 		])
 		setTitle('')
 	}
+
+	// asd
 
 	return (
 		<>
