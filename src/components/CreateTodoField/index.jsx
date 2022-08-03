@@ -16,9 +16,6 @@ const CreateTodoField = ({ setTodos }) => {
     setTitle('')
   }
 
-  // asdasd
-  //
-
   return (
     <>
       <input
