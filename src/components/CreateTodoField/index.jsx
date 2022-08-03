@@ -26,6 +26,7 @@ const CreateTodoField = ({ setTodos }) => {
 				onKeyPress={e => e.key === 'Enter' && addTodo(title)}
 				placeholder='Add a task'
 			/>
+
 			<button
 				onChange={e => setTitle(e.target.value)}
 				onClick={() => addTodo(title)}
