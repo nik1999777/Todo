@@ -1,4 +1,4 @@
-# Todo
+# todo
 Learning project with React and Tailwind CSS.
 
 ![Alt text](screenshots/todo.png?raw=true "Optional Title")
