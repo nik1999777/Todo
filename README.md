@@ -4,7 +4,7 @@ Learning project with React, GraphQL, Appollo Client.
 
 ![Alt text](screenshots/todo.png?raw=true "Optional Title")
 
-## Technologies
+## Technology
 - [React](https://reactjs.org/)
 - [classnames](https://github.com/JedWatson/classnames#readme)
 - [react-icons](https://react-icons.github.io/react-icons/)
