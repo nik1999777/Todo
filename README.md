@@ -20,11 +20,11 @@ $ yarn
 ### Launching a development server
 To start the development server, run the command:
 ```sh
-yarn start
+$ yarn start
 ```
 
 ### Build project
 To build a project, run the command:
 ```sh
-yarn build
+$ yarn build
 ```
