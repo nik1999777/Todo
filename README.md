@@ -1,6 +1,5 @@
 # graphql-appollo-app-ulbi
-Learning project with React, GraphQL, Appollo Client.
-
+Learning project with React and Tailwind CSS.
 
 ![Alt text](screenshots/todo.png?raw=true "Optional Title")
 
@@ -9,6 +8,7 @@ Learning project with React, GraphQL, Appollo Client.
 - [classnames](https://github.com/JedWatson/classnames#readme)
 - [react-icons](https://react-icons.github.io/react-icons/)
 - [uuid](https://github.com/uuidjs/uuid#readme)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Usage
 ### Installing dependencies
